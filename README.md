@@ -48,6 +48,18 @@ Networking: refers to the process of connecting multiple devices like computers,
 
 - The OSI Model (Open Systems Interconnetion) model represents an easy and intuitive way to standardize the different parts required to communicate across networks. 
 
+- The model makes it clear what is required to communicate on a network by splitting the requirements into multiple layers. 
+
+- The OSI Model looks like this: 
+
+Layer                                                            	What it does
+7 - Application	                                         Where humans process data and information
+6 - Presentation	                                       Ensures data is in a usable format
+5 - Session                                              Capable of maintaining connections
+4 - Transport	                                           Data is forwarded to a service capable of handling requests
+3 - Network Layer                                        Responsible for which path packets should travel on a network
+2 - Data Link	                                           Responsible for which physical devices packets should go to
+1 - Physical                                             The physical infrastructure to transport data
 
 
 
