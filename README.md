@@ -62,7 +62,10 @@ Layer                                                            	What it does
 1 - Physical                                             The physical infrastructure to transport data
 
 
-
+### To become a cybersecurity analyst, you need;
+1. Soft skills 
+2. Cybersecurity Knowledge like Networking, incident responsing 
+3. Certifications
 
 
 
