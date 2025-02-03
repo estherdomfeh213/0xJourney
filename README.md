@@ -68,8 +68,12 @@ Layer                                                            	What it does
 3. Certifications
 
 
+- Following a youtube video to install the following:
+1. Virtual Box 
 
-
+## Todo-list tomorrow
+✅ Learn virtual box basics 
+✅ install Kali Linux 
 
 
 
@@ -87,4 +91,5 @@ Layer                                                            	What it does
 - 🔹 [OverTheWire (Wargames)](https://overthewire.org)
 - 🔹 [Hack The Box](https://www.hackthebox.com)
 - 🔹 [TryHackMe](https://tryhackme.com)
+- 
 ```
