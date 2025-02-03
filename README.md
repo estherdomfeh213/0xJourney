@@ -28,6 +28,20 @@ A repository documenting my hangs-on cybersecurity learnign journey, notes, and 
 ## 📝 Writeups & Notes
 
 ### Week 1: Introduction to cybersecurity
+#### Cyber Crime
+Those are the crimes committed on the internet. 
+- examples 
+1. Identity theft 
+2. Online Predators 
+3. BEC( Business Email Compromise)
+4. Ransomware 
+5. Staaling of sensitive intellectual property 
+
+
+
+
+
+
 
 
 
