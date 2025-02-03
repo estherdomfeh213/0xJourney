@@ -38,8 +38,6 @@ A repository documenting my hangs-on cybersecurity learnign journey, notes, and 
 ---
 
 ### 🔗 **6. Useful Cybersecurity Resources**
-
-```markdown
 ## 📚 Resources
 
 - 🔹 [OverTheWire (Wargames)](https://overthewire.org)
