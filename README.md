@@ -36,9 +36,12 @@ Those are the crimes committed on the internet.
 3. BEC( Business Email Compromise)
 4. Ransomware 
 5. Staaling of sensitive intellectual property 
+ 
+- The dark web (also called The Dark Internet) is a network within the internet which is only accessible using certain software and protocols. 
 
-
-
+-- Popular examples of the dark web is Tor Network or Onion Router.  
+- it is just like the regular browsers, except it addresses ends with .onion instead of .com
+for example: Facebook - http://www.facebookcorewwwi.onion. 
 
 
 
