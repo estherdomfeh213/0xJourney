@@ -43,6 +43,18 @@ Those are the crimes committed on the internet.
 - it is just like the regular browsers, except it addresses ends with .onion instead of .com
 for example: Facebook - http://www.facebookcorewwwi.onion. 
 
+#### Networking Basics 
+Networking: refers to the process of connecting multiple devices like computers, servers, and mobile devices together to enable the exchange of information and resources through a system of interconnected networks, allowing them to communicate with each other across a network. like the internet. Essentially, it's the practice of creating and managing these connections between devices to facilate data transfer. 
+
+- The OSI Model (Open Systems Interconnetion) model represents an easy and intuitive way to standardize the different parts required to communicate across networks. 
+
+
+
+
+
+
+
+
 
 
 
