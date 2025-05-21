@@ -54,6 +54,8 @@ Ideal for database servers, virtualized environments and other applications requ
 ## Access point (AP)
 
 Allows you to connect wirelessly to a network, such as the internet or a local area neytwork. It acts as a central hub for wireless communication and enables devices like smartphones, tablets and laptops to access to network without the need for wired connections.
- Wireless network everywhere
+Wireless network everywhere
 
 ## Wireless LAN controller
+
+WLC is a network device used to monitor and manage wireless access points in an origanization. WLCs are connecter to router and allow devices from accross the origanization to connect to the router via access points.
