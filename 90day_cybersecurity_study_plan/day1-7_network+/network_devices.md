@@ -38,10 +38,13 @@ A proxy server is basically a computer on the internet with its own IP address t
 When the proxy server forwards your web requests, it can make changes to the data you send and still get you the information that you expect to see. A proxy server can change your IP address, so the web server doesn’t know exactly where you are in the world. It can encrypt your data, so your data is unreadable in transit. And lastly, a proxy server can block access to certain web pages, based on IP address.
 
 ## NAS vs. SAN
-
 ### Network Attached Storage (NAS)
+A single, self contained storage device that connects to a LAN using standard network protocols like Ethernet. 
+Ideal for file sharing, collaborative work storage, and general-purpose needs.
 
 ### Storage Area Network (SAN)
+A dedicated, high-speed network connecting servers and storage devices, often using specialized protocols and cabling. 
+Ideal for database servers, virtualized environments and other applications requiring high-speed data access. 
 
 ## Access point (AP)
 
